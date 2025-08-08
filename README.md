@@ -127,6 +127,6 @@ Licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
+**Om Shukla**  
 📫 Email: work.omshukla@gmail.com <br>
 🌐 Portfolio: https://om-shukla-portfolio.netlify.app/
